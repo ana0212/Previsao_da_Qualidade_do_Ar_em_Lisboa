@@ -81,12 +81,17 @@ Esse modelo apresentou desempenho superior:
 
 ---
 
+Projeto_Previsao_Qualidade_do_ar_Lisboa.ipynb
+
+Relatório do Projeto.pdf
+SPO-PT03082_00005_100.parquet
+
+
+
 ## Estrutura do Repositório
 
 ```bash
-├── data/                  # Dados brutos e processados
-├── notebooks/             # Análises exploratórias e modelagem
-├── models/                # Modelos treinados
-├── results/               # Métricas e visualizações
-├── requirements.txt       # Dependências do projeto
+├── Projeto_Previsao_Qualidade_do_ar_Lisboa.ipynb    # Análises exploratórias e modelagem
+├── Relatório do Projeto.pdf                         # Relatório 
+├── SPO-PT03082_00005_100.parquet                    # Dados da Série Temporal
 └── README.md              # Documentação
