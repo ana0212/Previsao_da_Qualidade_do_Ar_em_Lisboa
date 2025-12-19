@@ -92,6 +92,6 @@ SPO-PT03082_00005_100.parquet
 
 ```bash
 ├── Projeto_Previsao_Qualidade_do_ar_Lisboa.ipynb    # Análises exploratórias e modelagem
-├── Relatório do Projeto.pdf                         # Relatório 
+├── Relatório_do_Projeto.pdf                         # Relatório 
 ├── SPO-PT03082_00005_100.parquet                    # Dados da Série Temporal
 └── README.md              # Documentação
